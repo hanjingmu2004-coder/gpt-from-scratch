@@ -1,0 +1,3 @@
+-r requirements-experiments.txt
+transformers==4.57.6
+safetensors>=0.4

@@ -1,0 +1,9 @@
+__pycache__/
+*.pyc
+.venv/
+.uv-cache/
+data/
+runs/
+*.pth
+*.pt
+colab-first-run.zip

@@ -1,0 +1,2 @@
+-r requirements-pretrained.txt
+bitsandbytes==0.50.0
